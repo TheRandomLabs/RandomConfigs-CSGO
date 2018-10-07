@@ -17,7 +17,7 @@ directory.
 ## Recommended launch options
 
 `-novid`
-* Disables the CS:GO introduction video on startup.
+* Disables the introduction video on startup.
 
 `-no-browser`
 * Stops ads from loading on community servers. You can still use the in-game browser in the Steam

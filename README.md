@@ -1,4 +1,4 @@
-# RandomConfigs-CSGO
+# RandomConfigs CS:GO
 
 My configs for Counter-Strike: Global Offensive.
 

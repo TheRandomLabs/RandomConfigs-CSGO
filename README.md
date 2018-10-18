@@ -27,3 +27,7 @@ overlay.
 
 `-tickrate 128`
 * Sets the tickrate to 128 on local servers.
+
+`-freq <refresh rate>`
+* If CS:GO does not automatically set your preferred refresh rate, you can change it using this
+option.

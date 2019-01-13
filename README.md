@@ -14,7 +14,7 @@ like sensitivity, volume, etc.
 * Copying `autoexec.cfg` is not required as long as you have `exec randomconfigs/main` somewhere
 in your autoexec.
 * `install.bat` copies `randomconfigs` to the default Windows CS:GO `cfg` directory.
-It also copies `autoexec.cfg` if it is not there.
+It also copies `autoexec.cfg` if it's not there.
 
 ## Recommended launch options
 
@@ -22,12 +22,11 @@ It also copies `autoexec.cfg` if it is not there.
 * Disables the introduction video on startup.
 
 `-no-browser`
-* Stops ads from loading on community servers. You can still use the in-game browser in the Steam
-overlay.
+* Stops ads from loading on community servers. You can still use the Steam overlay web browser.
 
 `-tickrate 128`
 * Sets the tickrate to 128 on local servers.
 
 `-freq <refresh rate>`
 * If CS:GO does not automatically set your preferred refresh rate, you can change it using this
-option.
+option. CS:GO *should* do this automatically, but sometimes it doesn't.

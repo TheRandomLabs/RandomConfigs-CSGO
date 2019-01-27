@@ -30,3 +30,6 @@ It also copies `autoexec.cfg` if it's not there.
 `-freq <refresh rate>`
 * If CS:GO does not automatically set your preferred refresh rate, you can change it using this
 option. CS:GO *should* do this automatically, but sometimes it doesn't.
+
+`+exec autoexec`
+* CS:GO *should* execute the autoexec automatically, but sometimes it doesn't.

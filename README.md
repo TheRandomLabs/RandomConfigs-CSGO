@@ -18,9 +18,6 @@ It also copies `autoexec.cfg` if it's not there.
 
 ## Recommended launch options
 
-`-d3d9ex`
-* Reduces CPU memory use by about 40% and improves Alt-Tabbing speeds.
-
 `-novid`
 * Disables the introduction video on startup.
 
